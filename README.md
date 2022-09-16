@@ -6,4 +6,4 @@ PyBer, a ride sharing company, requested a deep dive into their data. They reque
 ##Results
 Initially, the two datasets given in .csv format were read into python and merged using the pandas library. Grouping by city type, the summary dataframe containing all the data can be seen below.
 
-![summary_df]("analysis/summary_df.png")
+![summary_df](analysis/summary_df.png)
