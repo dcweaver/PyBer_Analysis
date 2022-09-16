@@ -12,7 +12,7 @@ Based on this dataframe, Urban drivers have the lowest average fare per ride des
 
 From here, new pivot tables and dataframes were created from the table above, grouping the data by the date and city type this time. With the index of the dataframe set to be the different weeks in which the rides all took place, the data was ready to create the multi-line chart showing the differences, shown below.
 
-![multi_line](analysis/multi_line_chart)
+![multi_line](analysis/multi_line_chart.png)
 
 Based on the chart above, it can be seen that all of the city types have their peak weekly fares at the end of February. Throughout the spring months, Urban rides fluctuate but consistently were near the peak weekly fare, while the other two city types had their fares fall off until after April had begun. 
 
